@@ -1,0 +1,78 @@
+body {
+
+    background-color: #6799ff;
+    position: relative;
+  
+}
+body, html {
+  padding: 0;
+    margin: 0;
+    padding-top: 60px;
+  padding-left: 350px;
+
+}
+
+header {
+  background: white;
+  width: 500px;
+  height: 500px;
+}
+
+
+h3 {
+  text-align: center;
+  padding-top: 49px;
+  font-size: 300%;
+}
+
+
+footer {
+    text-align: left;
+    color: black;
+    margin: auto;
+    border: 0;
+    padding: 0;
+  text-color: black;
+}
+
+.logo {
+  
+}
+
+.signupform{
+ button-size: 100px;
+  text-align: center;
+}
+
+button {
+   border-top: 1px solid #96d1f8;
+   background: lightgreen;
+   padding: 12px 24px;
+   border-radius: 14px;
+   color: black;
+   font-size: 24px;
+   text-decoration: shadow;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+
+  }
+.email {
+  padding-top: 5px;
+  
+}
+
+.password {
+  padding-top: 10px;
+    text-align: left
+      ;
+  
+}
